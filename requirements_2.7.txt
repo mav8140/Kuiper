@@ -21,7 +21,7 @@ Shapely==1.6.4.post2
 sphinx_rtd_theme==0.4.3
 webapp2==2.5.2
 winjob==0.0.12
-PyYAML==5.1.2
+PyYAML==5.4
 pytest
 Flask-Celery-Helper
 urllib3==1.24.1
